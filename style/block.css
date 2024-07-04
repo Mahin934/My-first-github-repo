@@ -5,11 +5,20 @@
     border: 2px solid papayawhip;
     border-radius: 5px;
     margin-top: 10px;
-    margin-left: 43%;
+    margin-left: 40%;
+    padding: 0px 20px 0px 20px;
     
 }
 .color{
     color: red;
     text-align: center;
+    text-decoration: underline grey;
     
+}
+.eem{
+    text-align: justify;
+}
+.header{
+    text-align: center;
+    color: blue;
 }
