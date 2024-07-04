@@ -1,4 +1,15 @@
 .am{
     background-color: aqua;
-    margin-bottom: 10x ;
+    box-shadow: 5px 5px 5px 0px;
+    width: 15%;
+    border: 2px solid papayawhip;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 43%;
+    
+}
+.color{
+    color: red;
+    text-align: center;
+    
 }
